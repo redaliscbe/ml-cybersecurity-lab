@@ -1,5 +1,4 @@
 # Course Title :	MACHINE LEARNING FOR CYBER SECURITY
-# Course Code	 :	25MCAIS302
 1.		Perform a time series decomposition of a dataset with seasonal and trend components. 
 2.		Using historical network traffic data, apply time series forecasting methods (like ARIMA or Prophet) to predict potential DDoS attacks. 	
 3.		Implement an ensemble learning method (e.g., Random Forest or Gradient Boosting) to classify cyber-attacks. 
